@@ -5,10 +5,12 @@ Repository Structure
 
  MIX-alpha/            # Code for Chinese dataset (CED / Weibo)
 MIX-pheme-alpha/      # Code for English dataset (PHEME)
-README.md
+
 MIX-alpha: Processes the Chinese rumor detection dataset (CED). Contains data preprocessing, model training, and evaluation scripts for the Chinese track.
+
 MIX-pheme-alpha: Processes the English rumor detection dataset (PHEME). Contains data preprocessing, model training, and evaluation scripts for the English track.
 Datasets
+
 This work uses two publicly available datasets. Please refer to the original papers for download instructions:
 
 CED (Chinese Weibo Dataset)

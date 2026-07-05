@@ -3,20 +3,9 @@ This repository contains the implementation of the Dual-View Collaborative Learn
 
 Repository Structure
 
-Plain Text
-
-1
-2
-3
-4
-5
-6
-.
-├── MIX-alpha/            # Code for Chinese dataset (CED / Weibo)
-├── MIX-pheme-alpha/      # Code for English dataset (PHEME)
-├── main.tex              # LaTeX source of the paper
-├── references.bib        # Bibliography
-└── README.md
+ MIX-alpha/            # Code for Chinese dataset (CED / Weibo)
+MIX-pheme-alpha/      # Code for English dataset (PHEME)
+README.md
 MIX-alpha: Processes the Chinese rumor detection dataset (CED). Contains data preprocessing, model training, and evaluation scripts for the Chinese track.
 MIX-pheme-alpha: Processes the English rumor detection dataset (PHEME). Contains data preprocessing, model training, and evaluation scripts for the English track.
 Datasets
